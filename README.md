@@ -1,3 +1,3 @@
-# project_scripts
+# Shape Sensitivity Project
 
-This repository houses numerous scripts being used in the shape sensitivity project. 
+This repository contains numerous scripts being used in the shape sensitivity project. 
